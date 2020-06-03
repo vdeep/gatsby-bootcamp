@@ -7,7 +7,7 @@ const AboutPage = () => {
   return (
     <Layout>
       <h1>About</h1>
-      <p>Bio</p>
+      <h1>Bio</h1>
       <p>Need a developer? <Link to="/contact">Contact me.</Link></p>
     </Layout>
   )
